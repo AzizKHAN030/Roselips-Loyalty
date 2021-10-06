@@ -1,0 +1,1 @@
+<?php  $connect = new PDO('mysql: dbhost=localhost; dbname=roselips_loyalty','root','root');
