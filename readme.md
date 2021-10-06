@@ -1,4 +1,3 @@
-# This is a mini note book built with php
+# Программа лояльности для магазина косметики Roselips Cosmetics
 
-This app has user authorization and registration function, has and a user with admin ability.</br>
-To run this app copy files to your server folder and create db named 'notebook' on localhost, if your user and password for db is not 'root', then you have to change them in config.php file
+Эта программа написана на языке PHP, цель этого приложения в том чтобы добавлять клиентов в программу лояльности и начислять кешбэки от покупок в магазине, а также хранить историю операций. Для теста скачать архив и запустить с сервера предварительно настроив настройки сервера в файле config.php, а также создать БД для работы приложения.
